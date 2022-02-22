@@ -5,7 +5,7 @@ This is a beginner CTF designed for people who are using CTFlearn for the first 
 ## Summary
 
 Creator | Points| Difficulty
--------- | -------- | --------
+:--------: | :--------: | :--------:
 [intelagent](https://ctflearn.com/user/intelagent) | 10 | Easy
 
 ## Task
